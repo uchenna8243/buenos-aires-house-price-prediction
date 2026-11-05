@@ -1,8 +1,22 @@
-# Predicting-housing-prices-using-Buenos-Aires-Argentina-as-a-case-study.
-For this project, I was tasked with building a linear regression model that predicted house prices, and create a dynamic dashboard for interacting with the model.
-# Project Overview
-Clients and would-be buyers of properties in Buenos Aires, Argentina, found it hard to know the estimated prices of properties in their respective states and regions. This information became necessary to help them plan and buy their dream homes, hence the need to design an algorithm that can predict house prices based on certain factors. 
-# Project breakdown
-How to build a data pipeline for imputing missing values and encoding categorical features.
-How to improve model performance by reducing overfitting.
-This project analyzes a dataset of 21,000 properties for sale in Mexico from Properati.com to investigate whether property prices are more strongly influenced by size or location. Learners organize information using Python data structures and import and clean CSV data with the pandas library. The project includes creating data visualizations such as scatter and box plots to explore the data, culminating in an examination of variable relationships through correlation analysis to answer the central research question.Building on the data wrangling and visualization skills from Project 1, Project 2 marks a transition from descriptive to predictive data science. Focusing on real estate in Buenos Aires, Argentina, learners create a machine learning model to predict apartment prices. The project covers building linear regression models using the scikit-learn library and constructing data pipelines for imputing missing values and encoding categorical features. Learners also explore techniques to improve model performance by reducing overfitting and conclude by creating a dynamic dashboard for interacting with their completed prediction model.
+# Buenos Aires House Price Prediction
+
+A linear regression model that predicts apartment prices in Buenos Aires, Argentina, with an interactive dashboard for exploring the predictions. Completed as part of the WorldQuant University Applied Data Science programme.
+
+## Business question
+
+Buyers in Buenos Aires find it hard to judge what a property should cost in a given area. Can apartment prices be predicted from a property's size and location?
+
+## Approach
+
+1. Imported and cleaned property listing data with pandas
+2. Built a scikit-learn pipeline to impute missing values and encode categorical features
+3. Trained a linear regression model and reduced overfitting
+4. Built a dynamic dashboard for interacting with the model's predictions
+
+## Tools
+
+Python · pandas · scikit-learn · Jupyter
+
+## Author
+
+Uchenna Francis Onyeka · [LinkedIn](https://www.linkedin.com/in/uchenna-onyeka)
